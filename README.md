@@ -11,7 +11,6 @@ Hi, I'm Michael James Carnaje, a passionate self-taught web developer from Phili
 
 [<img align="left" alt="mjcarnaje.vercel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mj Carnaje | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mj Carnaje | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -29,5 +28,4 @@ Hi, I'm Michael James Carnaje, a passionate self-taught web developer from Phili
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [website]: https://mjcarnaje.vercel.app/
-[linkedin]: https://www.linkedin.com/in/michael-james-carnaje-3604a8154/
-[gmail]: mailto:michaeljamescarnaje1@gmail.com
+[linkedin]: https://www.linkedin.com/in/mjcarnaje/
